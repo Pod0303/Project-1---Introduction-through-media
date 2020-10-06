@@ -1,4 +1,4 @@
-# Project 1 Introduction through media
+# Project 1 - Introduction through media
 *Intended to be used for Video Introduction using different mediums* 
 1. First part of code uses OpenCv to play MP4 Video file 
 
